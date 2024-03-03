@@ -1,0 +1,6 @@
+/* Make <hr> be a lot brighter so they more clearly delineate sections. */
+
+div.hr.cm-line hr {
+  border-color: #fff !important;
+}
+
