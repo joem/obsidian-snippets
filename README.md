@@ -11,9 +11,10 @@ Some useful links to Obsidian docs:
 
 
 ## Table of Contents
---[Folders-Different-Color-Than-Files](#folders-different-color-than-files)
+
+- [Folders Different Color Than Files](#folders-different-color-than-files)
 - [Stronger HRs](#stronger-hrs)
---[Make-Status-Bar-Be-Full-Width](#make-status-bar-be-full-width)
+- [Make Status Bar Be Full Width](#make-status-bar-be-full-width)
 
 - [Clutter-Free Headings](#clutter-free-headings)
 - [Checkboxes](#checkboxes)
