@@ -1,19 +1,20 @@
 /* Make folders a different color than files, so files are easier to spot. */
 
-div.nav-folder-title-content {
-  background: #222;
-  /* #000 also looks nice too, but that's already used to show the currently selected file. */
 
-  /* This is another option... Make the font a little brighter and give a thin black border to the word. */
-  /*
-  border: 1px solid #000;
-  color: #ddd;
-  */
+.theme-dark .nav-folder-title-content {
+  /* color: #fff; */
+  /* background: #111; */
+  color: var(--link-color);
 }
+
+.theme-light .nav-folder-title-content {
+  color: var(--link-color);
+}
+
 
 /* Just in case we want to switch up which thing we change the color of, files use this: */
 /*
-div.nav-file-title-content {
+.nav-file-title-content {
 }
 */
 
