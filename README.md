@@ -14,7 +14,7 @@ Some useful links to Obsidian docs:
 
 - [Folders Different Color Than Files](#folders-different-color-than-files)
 - [Stronger HRs](#stronger-hrs)
-- [Make Status Bar Be Full Width](#make-status-bar-be-full-width)
+- [Full Width Status Bar](#full-width-status-bar)
 
 - [Clutter-Free Headings](#clutter-free-headings)
 - [Checkboxes](#checkboxes)
@@ -25,6 +25,8 @@ Some useful links to Obsidian docs:
 
 ## Folders Different Color Than Files
 
+https://github.com/joem/obsidian-snippets/blob/main/folders-different-color-than-files.css
+
 Make folders a different color than files, so files are easier to spot.
 (I need to fix this, since it's far too subtle for me currently.)
 
@@ -32,12 +34,16 @@ Make folders a different color than files, so files are easier to spot.
 
 ## Stronger HRs
 
+https://github.com/joem/obsidian-snippets/blob/main/stronger-hrs.css
+
 Make `<hr>` be a lot stronger and less subtle so they more clearly delineate
 sections. This makes them white in dark themes and black in light themes.
 
 ---
 
-## Make Status Bar Be Full Width
+## Full Width Status Bar
+
+https://github.com/joem/obsidian-snippets/blob/main/full-width-status-bar.css
 
 This fixes something I don't like about the default theme in Obsidian 1.x where
 the status bar is just in the lower right corner of the screen and if your
