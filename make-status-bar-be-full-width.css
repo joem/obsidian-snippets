@@ -1,13 +1,12 @@
 /*
- * This fixes the issue I've been having in Obsidian 1.x where the status bar
- * is just in the lower right corner of the screen and if you're typing
- * aproaches it it'll go under the status bar and you won't be able to see your
- * typing.
- *
- * This fix makes the status bar go across the whole screen, and your typing
- * won't be hidden by it.
- *
+ * Makes the status bar go across the whole screen, and your typing won't be hidden by it.
  */
 
-.app-container .status-bar { position: unset; }
+.theme-dark {
+  --status-bar-position: unset;
+}
+
+.theme-light {
+  --status-bar-position: unset;
+}
 
