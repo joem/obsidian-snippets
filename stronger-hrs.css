@@ -1,0 +1,10 @@
+/* Make <hr> be a lot stronger and less subtle so they more clearly delineate sections. */
+
+.theme-dark {
+  --hr-color: #fff;
+}
+
+.theme-light {
+  --hr-color: #000;
+}
+
