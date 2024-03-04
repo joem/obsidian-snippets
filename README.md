@@ -28,7 +28,6 @@ Some useful links to Obsidian docs:
 https://github.com/joem/obsidian-snippets/blob/main/folders-different-color-than-files.css
 
 Make folders a different color than files, so files are easier to spot.
-(I need to fix this, since it's far too subtle for me currently.)
 
 ---
 
